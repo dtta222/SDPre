@@ -21,9 +21,4 @@ public class Objective9Lab4 {
     double avg = (num1 + num2) / 2;
     return avg;
   }
-  /*
-
-  Write/define the "findAverage" method here
-  */
-  
 }
